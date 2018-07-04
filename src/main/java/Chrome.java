@@ -40,7 +40,7 @@ public class Chrome {
             e.printStackTrace();
         }
 
-        //Closing of a driver
+        //Close of a driver
         driver.quit();
     }
 
